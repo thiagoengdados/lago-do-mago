@@ -4,16 +4,19 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ioKtioJMdL_eWFFIKE_o-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="-1160" y="10" width="810" height="810" as="geometry" />
+        <mxCell id="H8j8tGWWKGtM1E1vWjiA-4" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1169" width="1169" height="820" as="geometry" />
+        </mxCell>
+        <mxCell id="ioKtioJMdL_eWFFIKE_o-6" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1130" y="40" width="760" height="740" as="geometry" />
         </mxCell>
         <mxCell id="ioKtioJMdL_eWFFIKE_o-8" value="" style="whiteSpace=wrap;html=1;flipV=1;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="-340" y="10" width="300" height="810" as="geometry" />
+          <mxGeometry x="-350" y="40" width="310" height="740" as="geometry" />
         </mxCell>
         <mxCell id="dODYw2VemyABCpYlCbUW-65" value="LAKE HOUSE&lt;div&gt;OU&amp;nbsp;&lt;div&gt;DELTA LAKE&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-240" y="340" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dODYw2VemyABCpYlCbUW-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="dODYw2VemyABCpYlCbUW-47" target="dODYw2VemyABCpYlCbUW-65" edge="1">
+        <mxCell id="dODYw2VemyABCpYlCbUW-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="H8j8tGWWKGtM1E1vWjiA-1" target="dODYw2VemyABCpYlCbUW-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dODYw2VemyABCpYlCbUW-77" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;FASE 2&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;container=0;" parent="1" vertex="1">
@@ -129,6 +132,21 @@
         </mxCell>
         <mxCell id="dODYw2VemyABCpYlCbUW-73" value="&lt;font style=&quot;color: rgb(0, 153, 0);&quot;&gt;SELECT * FROM&amp;nbsp; TABELA&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1120" y="255" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H8j8tGWWKGtM1E1vWjiA-2" value="&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(242, 7, 7), rgb(237, 237, 237));&quot;&gt;AWS&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="790" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H8j8tGWWKGtM1E1vWjiA-3" value="&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(242, 2, 2), rgb(237, 237, 237));&quot;&gt;DATABRICKS&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-135" y="740" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="H8j8tGWWKGtM1E1vWjiA-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dODYw2VemyABCpYlCbUW-47" target="H8j8tGWWKGtM1E1vWjiA-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-460" y="370" as="sourcePoint" />
+            <mxPoint x="-240" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8j8tGWWKGtM1E1vWjiA-1" value="SPARK" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-325" y="340" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
